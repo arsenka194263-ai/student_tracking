@@ -12,7 +12,7 @@ public class Main {
 
         Statement currentStatement = null;
 
-        System.out.println("=== СИСТЕМА УЧЕТА УСПЕВАЕМОСТИ ===");
+        System.out.println("=== СИСТЕМА УЧЕТА (ВЕТКА FEATURE) ===");
 
         while (true) {
             System.out.println("\nГЛАВНОЕ МЕНЮ СИСТЕМЫ:");
