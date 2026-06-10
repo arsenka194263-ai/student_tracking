@@ -1,0 +1,8 @@
+*.class
+*.ctxt
+*.jar
+bluej.pkh
++package.attributes
+.idea/
+.settings/
+.vscode/
